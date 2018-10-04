@@ -23,7 +23,8 @@
         <activity android:name=".Sleep2Main" />
         <activity android:name=".SleepPause" />
         <activity android:name=".SleepSettings" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Todo"></activity>
     </application>
 
 </manifest>
